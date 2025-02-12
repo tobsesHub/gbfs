@@ -359,7 +359,7 @@ DE,UsedomRad Germany,Usedom,nextbike_ur,https://usedomrad.de/,https://gbfs.nextb
 DE,VAG_Rad,Nuremberg,nextbike_dv,https://www.vagrad.de/de/nuernberg/,https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_dv/gbfs.json,2.3,
 DE,Velocity Aachen,Aachen,openvelo_aachen_velocity,https://velocity-aachen.de,https://nitro.openvelo.org/aachen/velocity/v2/gbfs.json,2.1,
 DE,VRNnextbike,"Rhine-Neckar, DE",nextbike_vn,https://www.vrnnextbike.de/,https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_vn/gbfs.json,2.3,
-DE,westBike,Erkelenz,nextbike_gh,https://www.nextbike.de/,https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_gh/gbfs.json,2.3,
+DE,westBike,"Heinsberg, DE",nextbike_gh,https://www.west-bike.de/,https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_gh/gbfs.json,2.3,
 DE,WinsenRad,Winsen (Luhe),nextbike_wd,https://www.winsenrad.de/,https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_wd/gbfs.json,2.3,
 DE,WK-Bike (Bremen),Bremen,nextbike_wk,https://www.wk-bike.de/de/bremen/,https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_wk/gbfs.json,2.3,
 DE,wupsiRad Leverkusen,Leverkusen,nextbike_dw,https://www.wupsirad.de/de/leverkusen/,https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_dw/gbfs.json,2.3,
