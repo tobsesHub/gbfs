@@ -317,7 +317,7 @@ DE,meinRad,Mainz,nextbike_mz,https://www.mainzer-mobilitaet.de/mehr-mobilitaet/m
 DE,meinSiggi,Bielefeld,nextbike_dg,https://www.nextbike.de/bielefeld/,https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_dg/gbfs.json,2.3,
 DE,metropolradruhr Germany,"Ruhr, DE",nextbike_mr,https://www.metropolradruhr.de/de/,https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_mr/gbfs.json,2.3,
 DE,MOBIbike,Dresden,nextbike_dx,https://www.nextbike.de/dresden/,https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_dx/gbfs.json,2.3,
-DE,mobic,Cologne,nextbike_re,https://www.nextbike.de/mobic/,https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_re/gbfs.json,2.3,
+DE,mobic,"Rhein-Erft-Kreis, DE",nextbike_re,https://www.nextbike.de/mobic/,https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_re/gbfs.json,2.3,
 DE,Movemix Bike,"Halle, DE",nextbike_mx,https://www.movemix-bike.de/,https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_mx/gbfs.json,2.3,
 DE,MV-Rad,Germany,nextbike_um,https://mv-rad.de/,https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_um/gbfs.json,2.3,
 DE,NEW MöBus nextbike,Mönchengladbach,nextbike_sn,https://www.nextbike.de/moenchengladbach/,https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_sn/gbfs.json,2.3,
